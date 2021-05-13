@@ -1,5 +1,5 @@
 """      MINIPROJECT BY PRAPTI RANA
-           STUDENT OF SEMSTER 4
+           STUDENT OF SEMESTER 4
               2014772
             B.TECH CSE (CORE)
             """
