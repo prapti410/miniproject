@@ -41,13 +41,13 @@ for tweet in tweet_data:
     #now checking polarity only
     if analysis.sentiment.polarity >0:
     print("POSITIVE")
-    pos=pos-1
+    pos=pos+1
     elif analysis.sentiment.polarity ==0:
         print("NEUTRAL")
-        neu=neu-1
+        neu=neu+1
         else :
             print("NEGATIVE")
-            neg=neg-1
+            neg=neg+1
 
 
 # TO PLOTING THE GRAPH
